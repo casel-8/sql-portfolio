@@ -1,5 +1,5 @@
 
-# SQL Portfolio — Zalsha
+# SQL Portfolio — Caca
 
 Welcome to my SQL portfolio!
 
@@ -95,7 +95,7 @@ No confidential client, employer, or personal data is included.
 
 ## Contact
 
-**Name:** Zalsha  
+**Name:** Caca  
 **Email:** marseliyasalsa@gmail.com 
 **GitHub:** https://github.com/Zalsha
 
